@@ -48,9 +48,7 @@ Sou um profissional com sólida base em Administração (Bancos e Financeiras) a
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonWoS&layout=compact&langs_count=7&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WellingtonWoS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-</div>
-  username=WellingtonWoS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </div>
+</div>>
 
 
 
