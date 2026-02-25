@@ -51,7 +51,7 @@ Sou um profissional com sólida base em Administração (Bancos e Financeiras) a
       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WellingtonWoS&theme=tokyonight"
     />
   </span>
-<span style="display: inline-block;"> <img height="200" style="border-radius: 10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusFeliciano0904&theme=tokyonight" /> </span> </p>
+<span style="display: inline-block;"> <img height="200" style="border-radius: 10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WellingtonWoS&theme=tokyonight" /> </span> </p>
 
 ---
 
