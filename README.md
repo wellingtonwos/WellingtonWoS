@@ -30,14 +30,11 @@ Sou um profissional com sólida base em Administração (Bancos e Financeiras) a
 ### 📧 Vamos nos conectar?
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/wellington-oliveira-0b686364/" target="_blank">
+  <a href="https://www.linkedin.com/in/wellington-oliveira-wos/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:contato@wellington.sousa@aluno.ifsp.edu.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.instagram.com/wellingtonwos/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
 
@@ -48,12 +45,13 @@ Sou um profissional com sólida base em Administração (Bancos e Financeiras) a
     <img 
       height="200"
       style="border-radius: 10px;"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WellingtonWoS&theme=tokyonight"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WellingtonWoS&theme=gruvbox"
     />
   </span>
-<span style="display: inline-block;"> <img height="200" style="border-radius: 10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WellingtonWoS&theme=tokyonight" /> </span> </p>
-
----
+  <span style="display: inline-block;">
+    <img height="200" style="border-radius: 10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WellingtonWoS&theme=gruvbox" />
+  </span>
+</p>
 
 
 
