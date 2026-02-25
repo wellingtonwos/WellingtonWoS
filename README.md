@@ -41,6 +41,18 @@ Sou um profissional com sólida base em Administração (Bancos e Financeiras) a
   </a>
 </div>
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <span style="display: inline-block; margin-right: 20px;">
+    <img 
+      height="200"
+      style="border-radius: 10px;"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WellingtonWoS&theme=tokyonight"
+    />
+  </span>
+<span style="display: inline-block;"> <img height="200" style="border-radius: 10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusFeliciano0904&theme=tokyonight" /> </span> </p>
+
 ---
 
 
