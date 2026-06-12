@@ -4,7 +4,7 @@
 
 ### Administrador de Negócios | Desenvolvedor Java & Python
 
-Perfil em transição para desenvolvimento de software, com foco em soluções organizadas, escaláveis e com boa experiência visual.
+Perfil em transição para desenvolvimento de software, com foco em soluções organizadas, escaláveis e com layout mais limpo.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-oliveira-wos/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wellington.sousa@aluno.ifsp.edu.br)
@@ -63,7 +63,6 @@ Perfil em transição para desenvolvimento de software, com foco em soluções o
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WellingtonWoS&theme=gruvbox" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WellingtonWoS&theme=gruvbox" />
 </p>
-
 
 
 
