@@ -6,8 +6,12 @@
 
 Perfil em transição para desenvolvimento de software, com foco em soluções organizadas, escaláveis e com layout mais limpo.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-oliveira-wos/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wellington.sousa@aluno.ifsp.edu.br)
+<a href="https://www.linkedin.com/in/wellington-oliveira-wos/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:wellington.sousa@aluno.ifsp.edu.br">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
 </div>
 
@@ -32,7 +36,7 @@ Perfil em transição para desenvolvimento de software, com foco em soluções o
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 </div>
 
-**Dados e análise**
+**Dados e Análise**
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -63,6 +67,5 @@ Perfil em transição para desenvolvimento de software, com foco em soluções o
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WellingtonWoS&theme=gruvbox" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WellingtonWoS&theme=gruvbox" />
 </p>
-
 
 
